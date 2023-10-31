@@ -2,7 +2,13 @@
 
 ## Overview
 
-This script (`install.sh`) automates the setup of essential tools—Jenkins, JDK, and Docker—on an Ubuntu 22.04 server. The script is intended to streamline the installation process for these tools, enhancing the server's functionality.
+This script (`install.sh`) automates the setup of essential tools an Ubuntu 22.04 server. The script is intended to streamline the installation process for these tools, enhancing the server's functionality.
+
+## Softwares
+
+- Docker
+- Jenkins (w JRE 17)
+- OpenJDK 21
 
 ## Usage
 

@@ -14,10 +14,8 @@ for file in *; do
 done
 
 sudo ./ubuntu_22_docker_install.sh
-
-sudo ./ubuntu_22_jdk_21_install.sh
-
 sudo ./ubuntu_22_jenkins_install.sh
+sudo ./ubuntu_22_jdk_21_install.sh
 
 echo "--------------------------------"
 echo "JAVA_HOME: $JAVA_HOME"
