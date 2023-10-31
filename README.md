@@ -9,6 +9,7 @@ This script (`install.sh`) automates the setup of essential tools an Ubuntu 22.0
 - Docker
 - Jenkins (w JRE 17)
 - OpenJDK 21
+- Nginx Proxy Manager
 
 ## Usage
 
